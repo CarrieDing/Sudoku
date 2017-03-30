@@ -50,7 +50,7 @@ function resetAll() {
         if(!document.getElementById) return false;
         if(!document.getElementById(boxID)) return false;
         var colorBox = document.getElementById(boxID);
-        colorBox.style.backgroundColor = "#ffbb55";
+        colorBox.style.backgroundColor = "#e78326";
     }
 }
 //随机产生三种不同的颜色
